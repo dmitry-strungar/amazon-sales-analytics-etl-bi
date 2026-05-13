@@ -15,4 +15,4 @@ DAG for daily updating the `sales_daily` data mart.
 
 **Technical details:**
 - Uses `BashOperator` + `curl` to send HTTP requests to ClickHouse
-- Hosts and passwords are replaced with placeholders for security
+- Hosts and passwords have been replaced with placeholders
