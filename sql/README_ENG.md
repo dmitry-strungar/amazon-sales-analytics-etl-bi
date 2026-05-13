@@ -17,6 +17,5 @@ The queries demonstrate proficiency in:
 | `1_revenue_by_category.sql` | Total revenue and order count by category |
 | `2_dynamic_by_month.sql` | Monthly revenue trend |
 | `3_abc_analysis.sql` | ABC analysis: revenue share, cumulative percent, A/B/C categories |
-| `4_dynamic_orders_revenue.sql` | Monthly dynamics of orders and revenue |
-| `5_top5_sku_per_category.sql` | Top 5 SKUs by revenue within each category |
-| `6_b2b_b2c_analysis.sql` | B2B vs B2C comparison: revenue, order count, average order value |
+| `4_top5_sku_per_category.sql` | Top 5 SKUs by revenue within each category |
+| `5_b2b_b2c_analysis.sql` | B2B vs B2C comparison: revenue, order count, average order value |
