@@ -15,4 +15,4 @@ select
     rank_in_category
 from ranked_products
 where rank_in_category <= 5
-order by Category, rank_in_category;
+order by Category, rank_in_category
