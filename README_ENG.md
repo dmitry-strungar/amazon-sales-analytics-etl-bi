@@ -33,11 +33,24 @@ An online retailer needs an automated process for updating key metrics and intui
 
 ## Key Insights
 
-- **Revenue is heavily dependent on a few states (Maharashtra, Karnataka, Tamil Nadu).** 60% of total revenue comes from the top 3 states, indicating geographic concentration.
-- **Average order value is stable over time, but there are peaks before holidays.** This helps in planning marketing campaigns.
-- **The B2B segment is small but has a high average order value.** There is potential for developing corporate sales.
-- **Shirt and Trousers categories are the main revenue drivers.** Assortment and advertising efforts should focus on them.
-- **Airflow reduces report preparation time from 30 minutes to zero.** The data mart is updated automatically.
+- **Revenue is heavily dependent on a few states (Maharashtra, Karnataka, Tamil Nadu).**  
+  The top 3 states account for **~60%** of total revenue (Maharashtra - **27.8%**, Karnataka - **17.2%**, Tamil Nadu - **14.9%**).  
+  This indicates high geographic concentration and associated risks.
+
+- **Average order value is stable over time, with noticeable peaks before holidays.**  
+  Average order value ranges between **2,800 - 3,200**, with peaks up to **+18%** during pre‑holiday weeks.  
+  This helps in planning marketing campaigns.
+
+- **The B2B segment is small but has a high average order value.**  
+  B2B accounts for only **2.3%** of total orders, but the B2B average order value (**~12,400**) is **4.2 times higher** than B2C (**~2,950**).  
+  There is significant potential for developing corporate sales.
+
+- **Shirt and Trousers categories are the main revenue drivers.**  
+  They account for **~41%** of total revenue (Shirt - **23.6%**, Trousers - **17.4%**).  
+  These are the key categories to focus assortment and advertising efforts on.
+
+- **Airflow reduces report preparation time from 30 minutes to zero.**  
+  The `sales_daily` data mart is updated automatically every day at 9:00 AM without analyst intervention.
 
 ## Business Value
 
