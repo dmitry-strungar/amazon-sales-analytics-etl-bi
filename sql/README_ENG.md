@@ -1,6 +1,6 @@
 # SQL Queries for ClickHouse
 
-This folder contains 6 analytical SQL queries executed in ClickHouse on Amazon sales data (128,975 records).
+This folder contains 5 analytical SQL queries executed in ClickHouse on Amazon sales data (128,975 records).
 
 The queries demonstrate proficiency in:
 - window functions (`ROW_NUMBER`, `SUM OVER`, `PARTITION BY`)
