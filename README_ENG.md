@@ -49,7 +49,7 @@ An online retailer needs an automated process for updating key metrics and intui
   They account for **~41%** of total revenue (Shirt - **23.6%**, Trousers - **17.4%**).  
   These are the key categories to focus assortment and advertising efforts on.
 
-- **Airflow reduces report preparation time from 30 minutes to zero.**  
+- **Airflow reduces report preparation time.**  
   The `sales_daily` data mart is updated automatically every day at 9:00 AM without analyst intervention.
 
 ## Business Value
