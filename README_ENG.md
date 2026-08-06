@@ -66,6 +66,21 @@ An online retailer needs an automated process for updating key metrics and intui
 - Finance department (revenue and average order value trends)
 - BI team (automation and maintenance)
 
+## Stack of AI tools
+In the process of working on the project, AI tools were used to accelerate development and increase efficiency.:
+
+ChatGPT was used for:
+1) Generating drafts of SQL queries for ClickHouse (aggregations, window functions, working with dates)
+2) Creating the basic structure of DAG files for Apache Airflow (BashOperator, schedule configuration, logging)
+3) Looking for ideas for data visualization in Superset and Metabase
+
+DeepSeek was used for:
+1) Improvements and optimizations of SQL queries (syntax checking, type conversion, working with large amounts of data)
+2) Checking the logic of the DAG before deployment, debugging errors and recommendations for improvement
+3) Preparation of the project description and documentation for dashboards
+
+All the key stages - architecture design, Docker configuration, writing final queries and generating conclusions - were completed independently. AI was used as an assistant to speed up routine and test hypotheses.
+
 ## Technology Stack
 
 - ClickHouse
